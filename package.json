@@ -1,0 +1,14 @@
+{
+  "name": "gpa-calculator-admin",
+  "version": "1.0.0",
+  "description": "Admin interface for GPA calculator system",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
